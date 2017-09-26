@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<meta>
+	<info name="Game Input" author="Neta" type="script" async="true" />
+	
+	<!-- Serverside Scripts-->
+	<script src="Input.cs" type="server" lang="csharp" />
+	
+	<!-- Clientside Scripts -->
+	<script src="Input.js" type="client" lang="javascript" />
+	
+	<assembly ref="System.Data.dll" />
+</meta>
+
